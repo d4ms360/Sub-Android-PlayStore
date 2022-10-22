@@ -42,6 +42,13 @@ We are not against forks, but please detach them from our repository. If you do 
     Install the dependencies manually.
 
     Use the command-line program `build.sh`.
+- Windows 10 and above (x86_64)
+
+    GUI application.
+
+    No Linux environment is required.
+
+Tip: Building with a Linux environment will be much faster than Windows.
 
 ## Features
 
